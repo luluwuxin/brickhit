@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "goldRevivi",
+    "texture": "a6136426-8381-4e3d-a6a1-3330464c7a95",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      161,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      161,
+      68
+    ]
+  }
+}

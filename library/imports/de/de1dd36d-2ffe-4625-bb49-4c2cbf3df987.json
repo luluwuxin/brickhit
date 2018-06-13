@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "qunRank",
+    "texture": "e5b8fa1c-d447-4ad7-93ad-3977deedf124",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      224,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      224,
+      56
+    ],
+    "capInsets": [
+      29,
+      0,
+      28,
+      0
+    ]
+  }
+}

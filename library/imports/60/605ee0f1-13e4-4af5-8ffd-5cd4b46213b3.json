@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "manu_more",
+    "texture": "044686bd-8ff9-4f4e-b741-f288eef88914",
+    "atlas": "",
+    "rect": [
+      2,
+      0,
+      83,
+      113
+    ],
+    "offset": [
+      0.5,
+      0.5
+    ],
+    "originalSize": [
+      86,
+      114
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "share1",
+    "texture": "79a2018c-fcbe-41b4-a74e-67a6ed647cfc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      400,
+      320
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      400,
+      320
+    ]
+  }
+}

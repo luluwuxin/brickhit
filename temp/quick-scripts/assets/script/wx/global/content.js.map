@@ -1,0 +1,1 @@
+{"version":3,"sources":["content.js"],"names":["module","exports","share"],"mappings":";;;;;;AAAAA,OAAOC,OAAP,GAAgB;AACZC,WAAM;AADM,CAAhB","file":"content.js","sourceRoot":"../../../../../../assets/script/wx/global","sourcesContent":["module.exports ={\r\n    share:{\r\n        \r\n    }\r\n}"]}

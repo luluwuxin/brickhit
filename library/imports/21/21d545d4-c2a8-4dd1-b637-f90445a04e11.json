@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anniu_paihangbang",
+    "texture": "f1af7b94-fcd5-444e-8c17-088891ad6c71",
+    "atlas": "",
+    "rect": [
+      26,
+      16,
+      108,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      160,
+      58
+    ]
+  }
+}

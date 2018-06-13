@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "paddle",
+    "texture": "e9a49234-e3b3-4d56-8da3-bd5cb7a92922",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      177,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      177,
+      24
+    ],
+    "capInsets": [
+      18,
+      0,
+      18,
+      0
+    ]
+  }
+}

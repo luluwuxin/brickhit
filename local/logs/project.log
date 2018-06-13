@@ -1,0 +1,57 @@
+2018-06-13T11:46:56.076Z - normal: Load ~/.CocosCreator/settings.json
+2018-06-13T11:46:56.085Z - normal: checking language setting...
+2018-06-13T11:46:56.086Z - normal: Language: zh
+2018-06-13T11:46:57.328Z - success: protocol editor-framework registered
+2018-06-13T11:46:57.328Z - success: protocol app registered
+2018-06-13T11:46:57.329Z - success: protocol theme registered
+2018-06-13T11:46:57.329Z - success: protocol packages registered
+2018-06-13T11:46:57.329Z - success: protocol unpack registerred
+2018-06-13T11:46:57.330Z - success: protocol disable-commonjs registerred
+2018-06-13T11:46:57.425Z - normal: connected!
+2018-06-13T11:46:57.430Z - normal: Check project /Users/tu/Downloads/brickhit-master
+2018-06-13T11:46:57.432Z - normal: Initializing Cocos2d
+2018-06-13T11:46:57.792Z - normal: Initializing Asset Database
+2018-06-13T11:46:57.845Z - success: protocol uuid registerred
+2018-06-13T11:46:57.845Z - success: protocol db registerred
+2018-06-13T11:46:57.845Z - success: protocol thumbnail registerred
+2018-06-13T11:46:57.845Z - normal: Loading editor/builtin packages
+2018-06-13T11:46:57.880Z - success: anysdk loaded
+2018-06-13T11:46:58.081Z - success: assets loaded
+2018-06-13T11:46:58.090Z - success: builder loaded
+2018-06-13T11:46:58.094Z - success: cocos-analytics loaded
+2018-06-13T11:46:58.103Z - success: console loaded
+2018-06-13T11:46:58.162Z - success: fb-instant-games loaded
+2018-06-13T11:46:58.170Z - success: hierarchy loaded
+2018-06-13T11:46:58.179Z - success: inspector loaded
+2018-06-13T11:46:58.181Z - success: keystore loaded
+2018-06-13T11:46:58.189Z - success: node-library loaded
+2018-06-13T11:46:58.194Z - success: package-asset loaded
+2018-06-13T11:46:58.198Z - success: preferences loaded
+2018-06-13T11:46:58.207Z - success: project-exporter loaded
+2018-06-13T11:46:58.242Z - success: project-importer loaded
+2018-06-13T11:46:58.249Z - success: project-settings loaded
+2018-06-13T11:46:58.257Z - success: ui-kit loaded
+2018-06-13T11:46:58.265Z - success: ui-grid loaded
+2018-06-13T11:46:58.274Z - success: scene loaded
+2018-06-13T11:46:58.276Z - success: sprite-editor loaded
+2018-06-13T11:46:58.283Z - success: store loaded
+2018-06-13T11:46:58.295Z - success: timeline loaded
+2018-06-13T11:46:58.295Z - normal: Loading builtin packages
+2018-06-13T11:46:58.306Z - success: asset-db-debugger loaded
+2018-06-13T11:46:58.308Z - success: color-picker loaded
+2018-06-13T11:46:58.317Z - success: package-manager loaded
+2018-06-13T11:46:58.318Z - success: qqplay-adapter loaded
+2018-06-13T11:46:58.333Z - success: sdkbox loaded
+2018-06-13T11:46:58.341Z - success: tester loaded
+2018-06-13T11:46:58.349Z - success: ui-kit-preview-extra loaded
+2018-06-13T11:46:58.357Z - success: ui-kit-preview loaded
+2018-06-13T11:46:58.364Z - success: ui-tree loaded
+2018-06-13T11:46:58.365Z - success: weapp-adapter loaded
+2018-06-13T11:47:00.138Z - normal: Initializing project /Users/tu/Downloads/brickhit-master
+2018-06-13T11:47:00.141Z - normal: Loading packages
+2018-06-13T11:47:00.310Z - success: game-preview loaded
+2018-06-13T11:47:00.311Z - normal: Watching packages
+2018-06-13T11:47:00.542Z - normal: Run Application
+2018-06-13T11:47:13.855Z - success: preview server running at http://localhost:7457
+2018-06-13T11:47:23.524Z - normal: 1.9.3
+2018-06-13T11:47:49.124Z - info: shutdown preview server

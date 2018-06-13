@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "manu_dress",
+    "texture": "3aa537d5-46fd-4579-8bad-e3208ae26523",
+    "atlas": "",
+    "rect": [
+      2,
+      0,
+      83,
+      113
+    ],
+    "offset": [
+      0.5,
+      0.5
+    ],
+    "originalSize": [
+      86,
+      114
+    ]
+  }
+}

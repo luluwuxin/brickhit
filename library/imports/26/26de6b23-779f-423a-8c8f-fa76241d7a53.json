@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "reborn_play_icon",
+    "texture": "47f93f1b-07d0-4216-84da-61de6859cebd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      30,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      30,
+      33
+    ]
+  }
+}

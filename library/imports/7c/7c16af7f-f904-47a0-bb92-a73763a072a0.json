@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anniu_tiaoguo",
+    "texture": "ab12e7de-5b25-45af-8adc-7d408eff8e7d",
+    "atlas": "",
+    "rect": [
+      30,
+      8,
+      82,
+      25
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      142,
+      41
+    ]
+  }
+}

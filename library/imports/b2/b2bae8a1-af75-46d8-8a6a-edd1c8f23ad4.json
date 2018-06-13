@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "invitGray",
+    "texture": "2661ee3e-2296-47d6-b16b-48f51aaebf03",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      161,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      161,
+      68
+    ]
+  }
+}

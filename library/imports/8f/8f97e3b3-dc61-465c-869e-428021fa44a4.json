@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hongbao_get",
+    "texture": "bfa21b04-501f-4135-a5ea-dff2b77128f4",
+    "atlas": "",
+    "rect": [
+      45,
+      52,
+      808,
+      896
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      900,
+      1000
+    ]
+  }
+}

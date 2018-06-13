@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "miaochun",
+    "texture": "1782af56-f4ae-49fb-8114-6240f39707c6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      19,
+      1002
+    ],
+    "offset": [
+      -0.5,
+      10.5
+    ],
+    "originalSize": [
+      20,
+      1023
+    ]
+  }
+}
